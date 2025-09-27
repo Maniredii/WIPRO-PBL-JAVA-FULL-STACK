@@ -15,13 +15,13 @@ import java.io.*;
 import java.util.*;
 
 class UserMainCode {
-    public int isPalindromeNum(int input) {
-        int original = input;
+    public int isPalindromeNum(int input1) {
+        int original = input1;
         int reversed = 0;
-        while (input > 0) {
-            int digit = input % 10;
+        while (input1 > 0) {
+            int digit = input1 % 10;
             reversed = reversed * 10 + digit;
-            input = input / 10;
+            input1 = input1 / 10;
         }
         if (original == reversed) {
             return 2;
