@@ -13,24 +13,20 @@ import java.io.*;
 import java.util.*;
 
 class UserMainCode {
-    public int isPalindromePossible(int input1) {
+    public int isPalindromePossible(int input) {
         int[] digitCount = new int[10];
         while (input1 > 0) {
-            int digit = input1 % 10;
-            digitCount[digit]++;
-            input1 = input1 / 10;
+            digitCount[input1 % 10]++;
+            input1 /= 10;
         }
+
         int oddCount = 0;
         for (int count : digitCount) {
-            if (count % 2 != 0) {
+            if (count % 2 == 1)
                 oddCount++;
-            }
         }
-        // For palindrome: at most one digit can have odd count
-        if (oddCount <= 1) {
-            return 2;
-        } else {
-            return 1;
-        }
+
+        // For forming a palindrome, at most one digit can have an odd count
+        return (oddCount <= 1) ? 2 : 1;
     }
 }
