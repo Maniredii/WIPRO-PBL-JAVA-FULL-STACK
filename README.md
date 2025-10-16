@@ -19,8 +19,6 @@ This repo contains all my training assessments, hands-on exercises, and project 
 ## 📁 File Structure & Quick Access
 
 ### 📁 LOGIC BUILDING HOUR PLAN FOR MILE2-A
-<details>
-<summary>Click to expand</summary>
 
 #### 📁 ARRAY BASED PROGRAMS
 - [Simple Encoded Array.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/ARRAY%20BASED%20PROGRAMS/Simple%20Encoded%20Array.java) - Decode an array where each element is sum of original value and next element
@@ -30,11 +28,7 @@ This repo contains all my training assessments, hands-on exercises, and project 
 - [FindStringCode.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/FindStringCode.java) - Generate code based on character position differences in words
 - [Get Code Through Strings.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/Get%20Code%20Through%20Strings.java) - Calculate single-digit PIN from word lengths
 
-</details>
-
 ### 📁 LOGIC BUILDING HOUR PLAN-M1
-<details>
-<summary>Click to expand</summary>
 
 #### 📁 DAY 4
 - [IsEven.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%204/IsEven.java) - Check if a number is even
@@ -78,8 +72,6 @@ This repo contains all my training assessments, hands-on exercises, and project 
 - [Return second word in Uppercase.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%2010/Return%20second%20word%20in%20Uppercase.java) - Extract and uppercase second word
 - [is Palindrome (string).java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%2010/is%20Palindrome%20(string).java) - Check string palindrome
 - [weight of string.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%2010/weight%20of%20string.java) - Calculate string weight
-
-</details>
 
 ---
 
