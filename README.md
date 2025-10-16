@@ -40,7 +40,7 @@ This repo contains all my training assessments, hands-on exercises, and project 
 |____ [Of given 5 numbers, how many are even.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%205/Of%20given%205%20numbers,%20how%20many%20are%20even.java) - Count even numbers
 |____ [Of given 5 numbers, how many are odd.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%205/Of%20given%205%20numbers,%20how%20many%20are%20odd.java) - Count odd numbers
 
-|____ 📁 DAY 6
+|____ 📁 DAY6
 |____ [Factorial of a number.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY6/Factorial%20of%20a%20number.java) - Calculate factorial
 |____ [Is Prime.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY6/Is%20Prime.java) - Check if number is prime
 |____ [Nth Fibonacci.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY6/Nth%20Fibonacci.java) - Find Nth Fibonacci number
