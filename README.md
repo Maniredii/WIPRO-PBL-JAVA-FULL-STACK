@@ -18,6 +18,11 @@ This repo contains all my training assessments, hands-on exercises, and project 
 
 ## 📁 File Structure & Quick Access
 
+### 📅 MILE 2-A - STRING BASED PROGRAMS (PART-1)
+- [Addition using Strings.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/Addition%20using%20Strings.java) - Add two numbers represented as strings
+- [FindStringCode.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/FindStringCode.java) - Generate code based on character position differences in words
+- [Get Code Through Strings.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/Get%20Code%20Through%20Strings.java) - Calculate single-digit PIN from word lengths
+
 ### 📅 DAY 4 - Basic Java Operations
 - [IsEven.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%204/IsEven.java) - Check if a number is even
 - [IsOdd.java](LOGIC%20BUILDING%20HOUR%20PLAN-M1/DAY%204/IsOdd.java) - Check if a number is odd
