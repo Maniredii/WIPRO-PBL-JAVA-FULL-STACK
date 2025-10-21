@@ -5,12 +5,7 @@ This repo contains all my training assessments, hands-on exercises, and project 
 
 ---
 
-## 📂 Repository Contents
-- ✅ Java Core Assessments  
-- ✅ Object-Oriented Programming Exercises  
-- ✅ Database Integration Tasks  
-- ✅ Web Development & Full Stack Modules  
-- ✅ Mini Projects & Assignments  
+
 
 > Each folder contains well-structured code and solutions submitted during the training journey.
 
@@ -21,12 +16,21 @@ This repo contains all my training assessments, hands-on exercises, and project 
 ### 📁 LOGIC BUILDING HOUR PLAN FOR MILE2-A
 
 #### 📁 ARRAY BASED PROGRAMS
+- [Decreasing sequence.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/ARRAY%20BASED%20PROGRAMS/Decreasing%20sequence.java) - Find length of longest decreasing sequence in array
+- [Most Frequently Occurring Digit.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/ARRAY%20BASED%20PROGRAMS/Most%20Frequently%20Occurring%20Digit.java) - Find digit that occurs most frequently across all numbers in array
 - [Simple Encoded Array.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/ARRAY%20BASED%20PROGRAMS/Simple%20Encoded%20Array.java) - Decode an array where each element is sum of original value and next element
+
+#### 📁 NUMBER BASED PROGRAMS
+- [Sum of Powers of Digits.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/NUMBER%20BASED%20PROGRAMS/Sum%20of%20Powers%20of%20Digits.java) - Calculate sum of digits raised to the power of their position
+- [Sum of Sums of Digits in Cyclic order.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/NUMBER%20BASED%20PROGRAMS/Sum%20of%20Sums%20of%20Digits%20in%20Cyclic%20order.java) - Calculate cumulative sum of digits in cyclic permutations
 
 #### 📁 STRING BASED PROGRAMS (PART-1)
 - [Addition using Strings.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/Addition%20using%20Strings.java) - Add two numbers represented as strings
 - [FindStringCode.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/FindStringCode.java) - Generate code based on character position differences in words
 - [Get Code Through Strings.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-1)/Get%20Code%20Through%20Strings.java) - Calculate single-digit PIN from word lengths
+
+#### 📁 STRING BASED PROGRAMS (PART-2)
+- [Encoding Three Strings.java](LOGIC%20BUILDING%20HOUR%20PLAN%20FOR%20MILE2-A/STRING%20BASED%20PROGRAMS%20(PART-2)/Encoding%20Three%20Strings.java) - Encode three strings by splitting and rearranging parts
 
 ### 📁 LOGIC BUILDING HOUR PLAN-M1
 
